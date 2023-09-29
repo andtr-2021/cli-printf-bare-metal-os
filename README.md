@@ -1,11 +1,19 @@
-# bare-metal-os-for-rpi4
-- CLI program:
+# bare-metal-os
 
+### CLI program:
+
+#### Welcome to OS:
 ![Alt text](https://github.com/andtr-2021/cli-printf-bare-metal-os/blob/master/osWelcome.JPG)
+
+#### help command
 
 ![Alt text](https://github.com/andtr-2021/cli-printf-bare-metal-os/blob/master/help.JPG)
 
+#### help <command> command
+
 ![Alt text](https://github.com/andtr-2021/cli-printf-bare-metal-os/blob/master/man.JPG)
+
+#### set text color command 
 
 ![Alt text](https://github.com/andtr-2021/cli-printf-bare-metal-os/blob/master/set%20text%20color.JPG)
 

@@ -37,7 +37,7 @@
 
 ### set-bg-color command:
 
-![Alt text](https://github.com/andtr-2021/cli-printf-bare-metal-os/blob/master/set%20text%20color.JPG)
+![image](https://github.com/andtr-2021/cli-printf-bare-metal-os/assets/79509067/f4024e84-6115-470f-8826-dcc997ce97c4)
 
 ### set-text-bg-color command:
 
